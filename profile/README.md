@@ -2,7 +2,7 @@
 
 **Space meets Intelligence.**  
 Starithm is a future-facing initiative at the intersection of **space data, AI, and systems engineering** — building tools, research, and infrastructure for understanding and navigating the modern space environment.
-
+Visit [https://starithm.ai](https://starithm.ai)
 ---
 
 ## 🚀 Our Mission
